@@ -2,6 +2,8 @@
 A tiny set of functions to use as lambda functions
 
 > go run annon-funct.go
+
+Ref: https://yourbasic.org/golang/anonymous-function-literal-lambda-closure
 */
 
 package main
